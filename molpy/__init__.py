@@ -5,6 +5,7 @@ Molecule playground.
 
 # Add imports here
 from .molpy import *
+from .util import *
 
 # Handle versioneer
 from ._version import get_versions
